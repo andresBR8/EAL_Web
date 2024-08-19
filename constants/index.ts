@@ -100,3 +100,51 @@ export const SOCIALS = {
   ],
 };
 
+// SERVICES SECTION
+export const SERVICES = [
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Screen Door Installation",
+    subtitle: "Labor and material included for a smooth installation process.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Garage Shelf Installation",
+    subtitle: "We provide the shelf and the material to optimize your space.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Outlet Installation",
+    subtitle: "Professional installation of two outlets for your convenience.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Hanging Photos",
+    subtitle: "Expertly hanging photos to showcase your memories.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Pendent Light Installation",
+    subtitle: "Elegant pendent lights installed to enhance your space.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Chandelier Installation",
+    subtitle: "Beautiful chandelier installation for a luxurious ambiance.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Sound Bar Speaker Installation",
+    subtitle: "Enhance your audio experience with expert installation.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Door Bell Installation",
+    subtitle: "Reliable doorbell installation to keep you connected.",
+  },
+  {
+    icon: "/eal_letter.png", // Ajusta el ícono según sea necesario
+    title: "Shower Head Replacement",
+    subtitle: "Upgrade your shower experience with a new shower head.",
+  },
+];

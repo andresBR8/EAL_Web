@@ -1,6 +1,10 @@
+// app/layout.tsx (o RootLayout.tsx)
 import type { Metadata } from 'next';
 
 import './globals.css'
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
@@ -16,7 +20,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-black">
+      <body className="bg-white">
         <Navbar />
         <main className="relative overflow-hidden">
           {children}
@@ -25,5 +29,4 @@ export default function RootLayout({
       </body>
     </html>
   )
-  
 }
